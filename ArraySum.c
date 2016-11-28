@@ -2,8 +2,8 @@
 #include <string.h>
 #include <mpi.h>
 
-#Author:  Kishan Bhugul
-#Date:    28-Nov-2016
+//Author:  Kishan Bhugul
+//Date:    28-Nov-2016
 
 int main (int argc, char *argv[]){
 	
